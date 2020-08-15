@@ -3,4 +3,7 @@ logo: /assets/img/Social_Network_Analysis_Visualization.png
 description: Personal page
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+#theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
