@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## My projects
 
 _yay_
 
